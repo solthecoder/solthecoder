@@ -1,7 +1,9 @@
 ## ENTER MY TINY CODING UNIVERSE!
 
 ![Ifinite Windows](niff/coding.gif)
-
+<br>
+<br>
+<br>
 ### A LITTLE BIT ABOUT ME:
 I am ***passionate*** about computer programming since I was 8 years old started with BASIC Commodore VIC-20.
 Currently, I am *brewing* up some Java applications.
