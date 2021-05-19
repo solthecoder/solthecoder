@@ -16,9 +16,9 @@ Currently, I am *brewing* up some Java applications.
 <br>
 <br>
 ### CURRENT EVER-CHANGING TECH STACK:
-[![git](niff/git1.png)](https://git-scm.com/) [![git](niff/github1.png)](https://github.com/) [![git](niff/java1.png)](https://www.java.com/en/) [![git](niff/cli1.png)](https://www.w3schools.com/whatis/whatis_cli.asp)
+[![git](niff/git1.png)](https://git-scm.com/) [![github](niff/github1.png)](https://github.com/) [![java](niff/java1.png)](https://www.java.com/en/) [![cli](niff/cli1.png)](https://www.w3schools.com/whatis/whatis_cli.asp) [![visual studio code](niff/vc1.png)](https://code.visualstudio.com/)
 
-[![git](niff/libgdx1.jpg)](https://libgdx.com/) [![git](niff/idea1.png)](https://www.jetbrains.com/idea/) [![git](niff/linux1.png)](https://www.linux.org/) [![git](niff/Gradle1.png)](https://gradle.org/)
+[![libgdx](niff/libgdx1.jpg)](https://libgdx.com/) [![intellij](niff/idea1.png)](https://www.jetbrains.com/idea/) [![linux](niff/linux1.png)](https://www.linux.org/) [![gradle](niff/Gradle1.png)](https://gradle.org/) [![maven](niff/mv1.png)](https://maven.apache.org/)
 <br>
 <br>
 <br>
