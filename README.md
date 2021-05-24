@@ -22,13 +22,6 @@ Currently, I am *brewing* up some Java applications.
 <br>
 <br>
 <br>
-
-### BADGE OF HONOR:
-<iframe width="400" height="40" src="https://www.codewars.com/users/solthecoder/badges/large"></iframe>
-<br>
-<br>
-<br>
-
 ### TO DO:
 - [x] Complete lower division courses at the college
 - [x] Code some Java applications
