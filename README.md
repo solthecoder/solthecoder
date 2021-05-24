@@ -19,6 +19,13 @@ Currently, I am *brewing* up some Java applications.
 [![git](niff/git1.png)](https://git-scm.com/) [![github](niff/github1.png)](https://github.com/) [![java](niff/java1.png)](https://www.java.com/en/) [![cli](niff/cli1.png)](https://www.w3schools.com/whatis/whatis_cli.asp) [![visual studio code](niff/vc1.png)](https://code.visualstudio.com/)
 
 [![libgdx](niff/libgdx1.jpg)](https://libgdx.com/) [![intellij](niff/idea1.png)](https://www.jetbrains.com/idea/) [![linux](niff/linux1.png)](https://www.linux.org/) [![gradle](niff/Gradle1.png)](https://gradle.org/) [![maven](niff/mv1.png)](https://maven.apache.org/)
+
+<br>
+<br>
+<br>
+
+### BADGE OF HONOR:
+![codewars badge](niff/badge1.png)
 <br>
 <br>
 <br>
